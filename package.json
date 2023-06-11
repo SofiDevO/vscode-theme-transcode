@@ -1,0 +1,31 @@
+{
+  "name": "transcode",
+  "displayName": "transCode",
+  "publisher": "SofiDev",
+  "description": "A theme with the official colors of the transgender community, for those coders who are proud to be themselves 💙.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+    
+  ],
+  
+  "keywords": [
+    "sofidev",
+    "80s",
+    "neon",
+    "transgender",
+    "trans"
+],
+  "contributes": {
+    "themes": [
+      {
+        "label": "transCode",
+        "uiTheme": "vs",
+        "path": "./themes/transCode-color-theme.json"
+      }
+    ]
+  }
+}
