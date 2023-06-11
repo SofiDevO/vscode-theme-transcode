@@ -11,7 +11,16 @@
     "Themes"
     
   ],
-  
+  "icon": "./img/logo.png",
+  "author": {
+    "name": "SofiDev",
+    "email":"contact@itssofi.dev",
+    "url": "https://itssofi.dev/"
+  },
+  "repository": {
+    "url": "https://github.com/SofiDevO/vscode-theme-transcode.git",
+    "type": "git"
+  },
   "keywords": [
     "sofidev",
     "80s",
