@@ -3,7 +3,7 @@
   "displayName": "transCode",
   "publisher": "transcode",
   "description": "A theme with the official colors of the transgender community, for those coders who are proud to be themselves 💙.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.79.0"
   },
