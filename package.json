@@ -33,7 +33,7 @@
       {
         "label": "transCode",
         "uiTheme": "vs",
-        "path": "./themes/transCode-color-theme.json",
+        "path": "./themes/transCode-color-theme.json" 
         
       }
     ]
