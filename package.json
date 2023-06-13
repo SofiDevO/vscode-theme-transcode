@@ -2,8 +2,8 @@
   "name": "transcode",
   "displayName": "transCode",
   "publisher": "transcode",
-  "description": "A theme with the official colors of the transgender community, for those coders who are proud to be themselves 💙.",
-  "version": "0.0.4",
+  "description": "A theme with the official colors of the transgender community, for those coders who are proud to be themselves 💙. Introducing Dark mode ",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.79.0"
   },
@@ -33,7 +33,8 @@
       {
         "label": "transCode",
         "uiTheme": "vs",
-        "path": "./themes/transCode-color-theme.json"
+        "path": "./themes/transCode-color-theme.json",
+        
       }
     ]
   }
